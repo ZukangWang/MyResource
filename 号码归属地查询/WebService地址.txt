@@ -1,1 +1,0 @@
-http://webservice.webxml.com.cn/WebServices/MobileCodeWS.asmx
